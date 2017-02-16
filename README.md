@@ -1,7 +1,7 @@
 # hello-world
 My first repository
 
-hellow!
+hello!
 
 
 Bla bla bla. And bla bla.
